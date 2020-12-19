@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.queries.users-query",
+    "type": "java.lang.String",
+    "description": "SQL query to load users'"
+  },
+  {
+    "name": "spring.queries.roles-query",
+    "type": "java.lang.String",
+    "description": "SQL query to load roles'"
+  }
+]}
